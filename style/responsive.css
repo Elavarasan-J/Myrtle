@@ -1,0 +1,429 @@
+@media only screen and (max-width:767px){
+    .navbar-default .navbar-toggle{
+        background-color: #c34408;
+        border-color: #c34408;
+        border-radius: 2px;
+    }
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+        background-color: #c34408;
+        border-color: #c34408;
+    }
+    .navbar-default{
+        border-bottom-width: 0;
+        border-color: #6e3095;
+    }
+    .navbar-collapse{
+        border-top-width: 2px;
+    }
+    .navbar-default .navbar-collapse{
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .custom-menu{
+        padding: 15px 0;
+    }
+    .custom-menu >li{
+        padding: 0 5px !important;
+    }
+    .custom-menu >li >a{
+        border: 0;
+        font-size: 13px;
+        line-height: 22px;
+    }
+    
+    .navbar-brand > img{
+        width: 175px;
+    }
+    .navbar-toggle{
+        margin-top: 23px;
+        margin-bottom: 23px;
+    }
+    .top-bar-list >li{
+        display: block;
+        margin: 0;
+        padding: 10px 0;
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .social-icon-list{
+        border-left: 0;
+        padding-left: 0;
+        margin-left: 0;
+    }
+    .top-bar-right >ul,.top-bar-right{
+        float: none;
+    }
+    .top-bar-right{
+        text-align: center;
+        padding: 0;
+    }
+    .top-bar-list >li:before{
+        display: none;
+    }
+    .top-bar-list >li:after{
+        content: "";
+        width: 80px;
+        height: 1px;
+        background: #6e3095;
+        position: absolute;
+        display: block;
+        bottom: 0;
+        left: 50%;
+        margin-left: -40px;
+    }
+    .navbar-nav > li > a{
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    .top-bar-list >li.btn-donate,.top-bar-list >li.address:after{
+        display: none;
+    }
+    .quote-section{
+        height: auto;
+    }
+    .quote-inner{
+        position: static;
+        text-align: center;
+        padding: 30px 0;
+    }
+    .quote-inner h4{
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+    .quote-inner h1{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+     .partner-list >li{
+        width: 30%;
+    }
+    .partner-section,.footer-top{
+        padding: 25px 0;
+    }
+    .footer-top{
+        text-align: center;
+    }
+    .footer-wrapper >img{
+        margin: 0 auto 12px;
+    }
+    .footer-wrapper,.footer-col{
+        margin-bottom: 35px;
+    }
+    .footer-title{
+        margin-bottom: 10px;
+    }
+    .news-list{
+        list-style: none;
+        padding: 0;
+    }
+    .carousel-inner>.item{
+        height: 520px;
+    }
+    .carousel-caption{
+        left: 0;
+        right: 0;
+        top: 50px;
+        text-align: center;
+    }
+    .caption-content >p{
+        display: none;
+    }
+    .featured-cause{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .caption-content >h3 >strong{
+        font-size: 18px;
+    }
+    .caption-content >h3{
+        font-size: 13px;
+        line-height: 26px;
+    }
+    .transform-list{
+        margin-bottom: 25px;
+    }
+    .snav-wrapper{
+        width: 300px;
+    }
+    .success-story-section{
+        padding: 30px 0;
+    }
+    .head-section{
+        margin-bottom: 20px;
+    }
+    .news-section{
+        padding: 30px 0;
+    }
+    .head-section >h3{
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .head-section >p{
+        font-size: 13px;
+        line-height: 23px;
+    }
+     .transform-list >div:first-child{
+        border-radius: 2px 2px 0 0;
+    }
+    .transform-list >div:last-child{
+        border-radius: 0 0 2px 2px;
+    }
+    .block-inner{
+        padding: 20px;
+    }
+    .each-block{
+        min-height: 100%;
+        font-size: 13px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .each-block h4{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .each-block.about{
+        font-size: 14px;
+        line-height: 24px;
+        padding: 25px;
+    }
+    .block-section{
+        padding: 30px 0 10px;
+    }
+    .subpage-wrappe,.bottom-wrapper{
+        padding: 30px 0;
+    }
+    .left-sidebar{
+        padding-right: 0;
+    }
+    .sidebar-wrapper,.bottom-col{
+        text-align: center;
+    }
+    .bottom-col{
+        padding-top: 90px;
+        background-position: top center !important;
+        margin-bottom: 35px;
+    }
+    .subpage-title{
+        font-size: 22px;
+        text-align: center;
+        padding-top: 115px;
+    }
+    .subpage-banner{
+        height: 250px;
+    }
+    .sidebar-wrapper ul{
+        list-style: none;
+        padding: 0;
+    }
+    .sidebar-list{
+        padding: 5px;
+    }
+    .volunteer-form{
+        padding: 20px;
+    }
+    .volunteer-form .form-group >div + div{
+        margin-top: 15px;
+    }
+    .radio-inline, .checkbox-inline{
+        margin-right: 7px;
+    }
+    .project-select{
+        float: none;
+        margin: 12px auto;
+    }
+    .project-img >img{
+        margin: 0 auto 20px;
+    }
+    .subpage-wrapper{
+        padding: 30px 0;
+    }
+    .sidebar-wrapper ul.focus-area-list{
+        text-align: left;
+    }
+    .collapse-inner{
+        padding: 15px;
+    }
+    .sidebar-wrapper ul, .sidebar-wrapper ol{
+        padding-left: 18px;  
+    }
+    .map-responsive{
+        padding-bottom:75%;
+    }
+    .static-page h4{
+        font-size: 14px;
+        line-height: 22px;
+        margin: 10px 0;
+    }
+    .amount-row >label{
+        margin: 5px 2px !important;   
+    }
+    .text-field .option-label{
+        width: 60%;
+    }
+    .text-field .option-value{
+        width: 40%;
+    }
+    .hidden-sm >.footer-col{
+        margin-bottom: 0;
+    }
+    .card-info .form-group,.tax-receipt .form-group{
+        margin-bottom: 0;
+    }
+    .card-info .form-control,.tax-receipt .form-control{
+        margin-bottom: 10px;
+    }
+    .option-label{
+        width: 75%;
+    }
+    .option-value{
+        width: 25%;
+    }
+    .total-row{
+        font-size: 13px;
+    }
+    .option-label >span{
+        font-size: 11px;
+    }
+    .event-row >a{
+        font-size: 15px;
+        line-height: 22px;
+        margin: 0 0 10px;
+    }
+    .event-wrapper{
+        margin-right: 0;
+    }
+    .event-list >li{
+        font-size: 13px;
+    }
+    .event-row >p{
+        line-height: 22px;
+    }
+    .event-head{
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .event-detail{
+        padding: 20px 5px;
+    }
+    .event-detail >h4{
+        line-height: 24px;
+    }
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+    .partner-list >li{
+        width: 43%;
+        margin: 5px;
+    }
+    .partner-list{
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+    .partner-list >li >img{
+        height: 70px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:992px){
+    .custom-menu >li{
+        margin: 0 10px;
+    }
+    .top-bar-list >li.btn-donate{
+        display: none;
+    }
+    .transform-col{
+        padding: 15px 10px;
+    }
+    .transform-col >h3{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .transform-col >img{
+        width: 60px;
+    }
+    .transform-col >p{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .head-section >p{
+        font-size: 13px;
+    }
+    .head-section >h3{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .news-section,.success-story-section,.partner-section,.progress-section-inner,.block-section{
+        padding: 30px 0;
+    }
+    .head-section{
+        margin-bottom: 25px;
+    }
+    
+    .caption-content >h3 >strong{
+        font-size: 20px;
+    }
+    .caption-content >h3{
+        font-size: 13px;
+        line-height: 27px;
+    }
+    .subpage-title{
+        text-align: center;
+    }
+    .left-sidebar{
+        padding-right: 0;
+        margin-bottom: 25px;
+    }
+    .sidebar-list{
+        padding: 3px 10px;
+    }
+    .sidebar-wrapper{
+        padding-left: 0;
+        border-left: 0;
+    }
+    .sidebar-wrapper h4{
+        font-size: 14px;
+    }
+    .team-member{
+        min-height: 225px;
+    }
+}
+
+@media only screen and (min-width:993px) and (max-width:1024px){
+    .top-bar-list >li{
+        padding-left: 30px;
+        margin: 0 12px;
+    }
+    .each-block.about{
+        font-size: 14px;
+        line-height: 26px;
+        padding: 30px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+    .partner-list >li{
+        width: 30%;
+    }
+    .each-slide{
+        padding: 0 40px;
+    }
+    .sidebar-wrapper .partner-list >li{
+        width: 28%;
+    }
+    .sidebar-wrapper .partner-list >li >img{
+        height: 80px;
+    }
+}
+
+@media only screen and (min-width:1025px) and (max-width:1200px){
+    .top-bar-list >li{
+        margin-left: 30px;
+    }
+    .each-block.about{
+        padding: 28px 30px;
+    }
+}
